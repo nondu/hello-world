@@ -1,2 +1,3 @@
 # hello-world
-first respiratory
+first repository
+I am Nondumiso Tembani.I am currently are software developer intern.I am new to Github...
